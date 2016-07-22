@@ -9,4 +9,4 @@ The Logic is written to find out the suggested gear for manual transmission vehi
 
 It is still a unfinished project, trying to calculate Compass and Pitch and roll from raw sensor data. Also other features from the OBD could be used to arrive some predictive analysis data for the end user.
 
-If you have any questions regarding the project, please visit hariharan.svaasya.com or mail me hariharan@svaasya.com
+If you have any questions regarding the project, please visit http://hariharan.svaasya.com or mail me hariharan@svaasya.com
